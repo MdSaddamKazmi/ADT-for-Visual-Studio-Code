@@ -22,7 +22,7 @@
 * Open command pallet by using command+shift+P ( for mac ) and shift+ctrl+P ( for windows ) and create a new destination.
   <img width="1296" height="202" alt="image" src="https://github.com/user-attachments/assets/b9e090e2-a22e-4747-a032-d7a6a900633c" />
 * Select the type of system you want to connect to
-  <img width="1250" height="276" alt="image" src="https://github.com/user-attachments/assets/23eccef2-0e09-4a27-a4b0-cc104d538885" />
+  <img width="1244" height="264" alt="image" src="https://github.com/user-attachments/assets/ade01cdc-2835-477e-b5bc-fb6709edd433" />
 * For private cloud systems , You will see the list of system. Select any one system.
   <img width="1238" height="186" alt="image" src="https://github.com/user-attachments/assets/89dfb8e9-65f6-43f9-9acc-cbde715ae1ac" />
 * For public cloud system , pass the URL of the system.
