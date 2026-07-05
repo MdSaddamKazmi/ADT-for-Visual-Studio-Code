@@ -22,13 +22,20 @@
 * Open command pallet by using command+shift+P ( for mac ) and shift+ctrl+P ( for windows ) and create a new destination.
   <img width="1296" height="202" alt="image" src="https://github.com/user-attachments/assets/b9e090e2-a22e-4747-a032-d7a6a900633c" />
 * Select the type of system you want to connect to
-  <img width="1296" height="202" alt="image" src="https://github.com/user-attachments/assets/b8653043-f11d-43b8-98d1-ef8130f83b78" />
+  <img width="1224" height="194" alt="image" src="https://github.com/user-attachments/assets/da2e01e6-79ee-4ba0-995d-6fe60c9b8d74" />
 * For private cloud systems , You will see the list of system. Select any one system.
   <img width="1238" height="186" alt="image" src="https://github.com/user-attachments/assets/89dfb8e9-65f6-43f9-9acc-cbde715ae1ac" />
 * For public cloud system , pass the URL of the system.
   <img width="1238" height="186" alt="image" src="https://github.com/user-attachments/assets/bd116113-cd03-45ed-9db3-08d8c6596424" />
-* Pass the username
+* Pass the username and then client, language on next step.
   <img width="1224" height="194" alt="image" src="https://github.com/user-attachments/assets/495c9560-6cdc-4ffd-81ce-b86cb219fbe8" />
+* Enter and ID for new destination
+  <img width="1266" height="224" alt="image" src="https://github.com/user-attachments/assets/666a7849-f965-4b94-a131-d76f4ba94bc6" />
+* Now that connection is established , integrate the system to workspace.
+  <img width="1266" height="224" alt="image" src="https://github.com/user-attachments/assets/07fc242c-cf62-4d32-af39-84e5f7cd1a70" />
+* 
+
+
 
 
 
