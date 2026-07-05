@@ -45,9 +45,10 @@
 * Select the package
   <img width="1260" height="846" alt="image" src="https://github.com/user-attachments/assets/6458ebc4-08b8-4264-8764-faaeb0ca95f2" />
 * Pass the name of new object you want to create. Also pass the description.
-  ![Uploading image.png…]()
+  <img width="1246" height="678" alt="image" src="https://github.com/user-attachments/assets/3a020fa4-e5a3-4087-ad34-f340ece73cf7" />
 * You are good to go now.
   ![Uploading image.png…]()
+
 
 
 
