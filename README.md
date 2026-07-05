@@ -44,7 +44,7 @@
 * Select the object type that you want to create
   <img width="1276" height="822" alt="image" src="https://github.com/user-attachments/assets/b01d3581-197a-417b-af78-a2f4e7322656" />
 * Select the package
-  <img width="1260" height="846" alt="image" src="https://github.com/user-attachments/assets/6458ebc4-08b8-4264-8764-faaeb0ca95f2" />
+  <img width="1276" height="282" alt="image" src="https://github.com/user-attachments/assets/03f65b7c-2837-4f4b-ae4a-c8c227d3ccf4" />
 * Pass the name of new object you want to create. Also pass the description and press enter.
   <img width="1246" height="678" alt="image" src="https://github.com/user-attachments/assets/3a020fa4-e5a3-4087-ad34-f340ece73cf7" />
 * You are good to go now.
