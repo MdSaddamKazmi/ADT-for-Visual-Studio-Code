@@ -42,7 +42,7 @@
 * To create new object , use shift+windows+P and select ABAP: Create new ...
   <img width="1242" height="224" alt="image" src="https://github.com/user-attachments/assets/971b6f87-afed-4646-985f-d36ac79f5cd9" />
 * Select the object type that you want to create
-  <img width="1260" height="846" alt="image" src="https://github.com/user-attachments/assets/32b34697-2fe9-421f-834c-030426e31c3a" />
+  <img width="1276" height="822" alt="image" src="https://github.com/user-attachments/assets/b01d3581-197a-417b-af78-a2f4e7322656" />
 * Select the package
   <img width="1260" height="846" alt="image" src="https://github.com/user-attachments/assets/6458ebc4-08b8-4264-8764-faaeb0ca95f2" />
 * Pass the name of new object you want to create. Also pass the description and press enter.
