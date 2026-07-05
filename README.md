@@ -17,7 +17,7 @@
 * Install the extension.
   <img width="1616" height="390" alt="image" src="https://github.com/user-attachments/assets/46096061-f77b-4db4-87ae-2388ef320ae4" />
 
-  # Usin ADT in VSCode
+# Using ADT in VSCode
 
  
 
