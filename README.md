@@ -36,6 +36,7 @@
 * Check the workspace : 
   <img width="740" height="300" alt="image" src="https://github.com/user-attachments/assets/bb3d885e-6df0-4199-abcc-354952c4603e" />
 * Right click on destination and click "Logon to Destination"
+  <img width="748" height="210" alt="image" src="https://github.com/user-attachments/assets/6e121916-e290-49c3-8fb3-63488c2f1342" />
 * You can see the list of local objects and system library.
   <img width="726" height="330" alt="image" src="https://github.com/user-attachments/assets/b823273e-dccd-46ce-ba3f-9a4eb8ffef3b" />
 * To create new object , use shift+windows+P and select ABAP: Create new ...
