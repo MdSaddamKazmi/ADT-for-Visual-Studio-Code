@@ -39,7 +39,7 @@
 * You can see the list of local objects and system library.
   <img width="726" height="330" alt="image" src="https://github.com/user-attachments/assets/b823273e-dccd-46ce-ba3f-9a4eb8ffef3b" />
 * To create new object , use shift+windows+P and select ABAP: Create new ...
-  <img width="726" height="330" alt="image" src="https://github.com/user-attachments/assets/161c0a1f-072c-4903-adef-843eb1d5eee7" />
+  <img width="1242" height="224" alt="image" src="https://github.com/user-attachments/assets/971b6f87-afed-4646-985f-d36ac79f5cd9" />
 * Select the object type that you want to create
   <img width="1260" height="846" alt="image" src="https://github.com/user-attachments/assets/32b34697-2fe9-421f-834c-030426e31c3a" />
 * Select the package
