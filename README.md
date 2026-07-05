@@ -13,5 +13,9 @@
 
 * Open the extensions menu and search for "ABAP Development Tools for VS Code".
   <img width="596" height="302" alt="Screenshot 2026-07-05 at 12 53 58 PM" src="https://github.com/user-attachments/assets/440540dc-e657-4c9d-88d8-779e59cce5ee" />
+
+* Install the extension.
+  <img width="1616" height="390" alt="image" src="https://github.com/user-attachments/assets/46096061-f77b-4db4-87ae-2388ef320ae4" />
+
  
 
