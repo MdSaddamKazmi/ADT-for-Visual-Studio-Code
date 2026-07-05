@@ -28,7 +28,7 @@
 * For public cloud system , pass the URL of the system.
   <img width="1254" height="248" alt="image" src="https://github.com/user-attachments/assets/deebe0d6-0962-4c62-9203-a645637c058b" />
 * Pass the username and then client, language on next step.
-  <img width="1224" height="194" alt="image" src="https://github.com/user-attachments/assets/495c9560-6cdc-4ffd-81ce-b86cb219fbe8" />
+  <img width="1254" height="280" alt="image" src="https://github.com/user-attachments/assets/54cf63d8-6401-4930-b2f8-2af720f5ea14" />
 * Enter an ID for new destination
   <img width="1266" height="224" alt="image" src="https://github.com/user-attachments/assets/666a7849-f965-4b94-a131-d76f4ba94bc6" />
 * Now that connection is established , integrate the system to workspace.
