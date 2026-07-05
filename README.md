@@ -26,7 +26,7 @@
 * For private cloud systems , You will see the list of system. Select any one system.
   <img width="1238" height="186" alt="image" src="https://github.com/user-attachments/assets/89dfb8e9-65f6-43f9-9acc-cbde715ae1ac" />
 * For public cloud system , pass the URL of the system.
-  <img width="1238" height="186" alt="image" src="https://github.com/user-attachments/assets/bd116113-cd03-45ed-9db3-08d8c6596424" />
+  <img width="1254" height="248" alt="image" src="https://github.com/user-attachments/assets/deebe0d6-0962-4c62-9203-a645637c058b" />
 * Pass the username and then client, language on next step.
   <img width="1224" height="194" alt="image" src="https://github.com/user-attachments/assets/495c9560-6cdc-4ffd-81ce-b86cb219fbe8" />
 * Enter an ID for new destination
