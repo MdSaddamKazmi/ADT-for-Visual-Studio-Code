@@ -29,7 +29,7 @@
   <img width="1238" height="186" alt="image" src="https://github.com/user-attachments/assets/bd116113-cd03-45ed-9db3-08d8c6596424" />
 * Pass the username and then client, language on next step.
   <img width="1224" height="194" alt="image" src="https://github.com/user-attachments/assets/495c9560-6cdc-4ffd-81ce-b86cb219fbe8" />
-* Enter and ID for new destination
+* Enter an ID for new destination
   <img width="1266" height="224" alt="image" src="https://github.com/user-attachments/assets/666a7849-f965-4b94-a131-d76f4ba94bc6" />
 * Now that connection is established , integrate the system to workspace.
   <img width="1270" height="186" alt="image" src="https://github.com/user-attachments/assets/cdbf5dad-da2c-4dbc-8d5f-187295663fa6" />
