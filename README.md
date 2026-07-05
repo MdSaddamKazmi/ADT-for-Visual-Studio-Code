@@ -32,8 +32,27 @@
 * Enter and ID for new destination
   <img width="1266" height="224" alt="image" src="https://github.com/user-attachments/assets/666a7849-f965-4b94-a131-d76f4ba94bc6" />
 * Now that connection is established , integrate the system to workspace.
-  <img width="1266" height="224" alt="image" src="https://github.com/user-attachments/assets/07fc242c-cf62-4d32-af39-84e5f7cd1a70" />
-* 
+  <img width="1270" height="186" alt="image" src="https://github.com/user-attachments/assets/cdbf5dad-da2c-4dbc-8d5f-187295663fa6" />
+* Check the workspace
+  <img width="740" height="300" alt="image" src="https://github.com/user-attachments/assets/bb3d885e-6df0-4199-abcc-354952c4603e" />
+* Right click on destination and click "Logon to Destination"
+* You can see the list of local objects and system library.
+  <img width="726" height="330" alt="image" src="https://github.com/user-attachments/assets/b823273e-dccd-46ce-ba3f-9a4eb8ffef3b" />
+* To create new object , use shift+windows+P and select ABAP: Create new ...
+  <img width="726" height="330" alt="image" src="https://github.com/user-attachments/assets/161c0a1f-072c-4903-adef-843eb1d5eee7" />
+* Select the object type that you want to create
+  <img width="1260" height="846" alt="image" src="https://github.com/user-attachments/assets/32b34697-2fe9-421f-834c-030426e31c3a" />
+* Select the package
+  <img width="1260" height="846" alt="image" src="https://github.com/user-attachments/assets/6458ebc4-08b8-4264-8764-faaeb0ca95f2" />
+* Pass the name of new object you want to create. Also pass the description.
+  ![Uploading image.png…]()
+* You are good to go now.
+  ![Uploading image.png…]()
+
+
+
+
+
 
 
 
