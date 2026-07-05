@@ -33,6 +33,7 @@
   <img width="1266" height="224" alt="image" src="https://github.com/user-attachments/assets/666a7849-f965-4b94-a131-d76f4ba94bc6" />
 * Now that connection is established , integrate the system to workspace.
   <img width="1270" height="186" alt="image" src="https://github.com/user-attachments/assets/cdbf5dad-da2c-4dbc-8d5f-187295663fa6" />
+  
 * Check the workspace
   <img width="740" height="300" alt="image" src="https://github.com/user-attachments/assets/bb3d885e-6df0-4199-abcc-354952c4603e" />
 * Right click on destination and click "Logon to Destination"
