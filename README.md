@@ -18,6 +18,7 @@
   <img width="1616" height="390" alt="image" src="https://github.com/user-attachments/assets/46096061-f77b-4db4-87ae-2388ef320ae4" />
 
 # Using ADT in VSCode:
+
 * Open command pallet by using command+shift+P ( for mac ) and shift+ctrl+P ( for windows ) and create a new destination.
   <img width="1296" height="202" alt="image" src="https://github.com/user-attachments/assets/b9e090e2-a22e-4747-a032-d7a6a900633c" />
 * Select the type of system you want to connect to
